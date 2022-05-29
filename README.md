@@ -1,9 +1,15 @@
-# Aujasvi Sulekh
-Hey there
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hey there
+
+**I am `@Aujasvi-Sulekh`, its a pleasure to have you visit my profile.**
+
+## I am currently pursuing my B. Tech in Computer Science and Engineering
+- 👀 I’m interested in ...  Machine Learning, Python, Open-Source Projects
+- 🌱 I’m currently learning ... Hmm. Machine Learning Skills 😂
+- ✍ Want to learn: PHP, and more concepts related to Machine and Deep Learning
+- 👯 Connect with Me on: [LinkedIn](https://www.linkedin.com/in/aujasvi-kumar-sulekh-0b4b95213)
+- 📝[Resume]
+
+Now, I don't know what else to add to my Profile so I'll be concluding it here.
 
 <!---
 Aujasvi-Sulekh/Aujasvi-Sulekh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
