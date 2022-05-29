@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning ... Hmm. Machine Learning Skills 😂
 - ✍ Want to learn: PHP, and more concepts related to Machine and Deep Learning
 - 👯 Connect with Me on: [LinkedIn](https://www.linkedin.com/in/aujasvi-kumar-sulekh-0b4b95213)
-- 📝[Resume](Resume - Aujasvi-Sulekh.pdf)
+- 📝 [Resume](Resume - Aujasvi-Sulekh.pdf)
 
 Now, I don't know what else to add to my Profile so I'll be concluding it here.
 
