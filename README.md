@@ -5,7 +5,7 @@
 ## I am currently pursuing my B. Tech in Computer Science and Engineering
 - 👀 I’m interested in ...  Machine Learning, Python, Open-Source Projects
 - 🌱 I’m currently learning ... Hmm. Machine Learning Skills 😂
-- ✍ Want to learn: PHP, and more concepts related to Machine and Deep Learning
+- ✍ Want to learn: Web Development, and more concepts related to Machine and Deep Learning
 - 👯 Connect with Me on: [LinkedIn](https://www.linkedin.com/in/aujasvi-kumar-sulekh-0b4b95213)
 - 📝 [Resume](Resume_Aujasvi_Sulekh.pdf)
 
